@@ -1,0 +1,29 @@
+all_projects:
+  - title: Memotion Analysis
+    authors: B. Karimi, M. Mohammadi
+    code: https://github.com/bardiakzzzz/Deep_Learning_Memotion_Analysis
+  
+  - title: Car Model Detection and Price Estimation
+    authors: A. Safarpoor, A. Mansoubi 
+    code: https://github.com/aSafarpoor/deep_learning-final_project
+  
+  - title: Memotion Analysis
+    authors: A. Shariat, A. Moshirnia
+    code: https://gitlab.com/Arianshh/memotion-analysis
+  
+  - title: Music Generation
+    authors: M. Mirzaei, S. Rastegar
+    code: https://github.com/blu-ray/Music-Generation
+  
+  - title: Image Colorization
+    authors: M. Ahmadi, F. Roohghalandari
+    code: https://github.com/mehraveh/image_colorization
+  
+  - title: Detection of Propaganda Techniques
+    authors: Z. Bashir, O. Ghahroodi
+    code: https://github.com/zahrabashir98/Detection-of-Propaganda-Techniques
+  
+  - title: Car Model and Plate Detection
+    authors: M. Meymari, E. Hosseini
+    code: https://github.com/mahsa-meymari/deep_learning_final_Project
+  

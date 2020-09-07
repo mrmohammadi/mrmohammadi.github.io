@@ -2,8 +2,8 @@ Development strategy
 =======================================================
 
 # How to build & contribute
-1. clone repository `git clone https://github.com/iust-deep-learning/981.git`
-2. `cd 981/dev`
+1. clone repository `git clone https://github.com/mrmohammadi/mrmohammadi.github.io.git`
+2. `cd computer_vision/3991/dev`
 3. install requirements:
    `gem install jekyll-jalali`
 4. add your content, apply your changes, watch them: `jekyll serve`.

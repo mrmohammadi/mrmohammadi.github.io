@@ -1,17 +1,17 @@
 ---
 layout: page
-title: Course Materials
+title: مواد آموزشی
 permalink: /course-materials/
 ---
 
 
-## Book
+## کتاب
 
 
  
-## Additional Course Materials
+## سایر مواد آموزشی
 
 
 
-## Tutorials
+## صفحه‌های مناسب در وب
 

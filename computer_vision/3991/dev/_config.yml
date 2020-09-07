@@ -1,10 +1,10 @@
 # Site settings
-title: Iran University of Science and Technology (IUST)
-course_name: Computer Vision
+title: دانشگاه علم و صنعت ایران
+course_name: بینایی کامپیوتر
 course_description: 
-course_semester: "Fall 1399 (2020)"
+course_semester: "پاییز 1399"
 description: |
-    Instructor: Mohammad Reza Mohammadi
+    Instructor: محمد رضا محمدی
 
 message: 
 baseurl: "/computer_vision/3991"
@@ -17,9 +17,7 @@ twitter_username: Mohammadi_IUST
 github_username:  mrmohammadi
 authorurl: "http://webpages.iust.ac.ir/mrmohammadi/"
 address: |
-    School of Computer Engineering
-    Iran University of Science and Technology
-    Tehran, Iran
+    ایران، تهران، دانشگاه علم و صنعت ایران، دانشکده مهندسی کامپیوتر
 
 
 # Build settings

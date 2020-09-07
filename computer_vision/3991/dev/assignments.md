@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Assignments
+title: تمرین‌ها
 permalink: /assignments/
 ---
 
-You can download the assignments here (in PDF format). Also check out assignment's pages for any additional info.
+در این صفحه می‌توانید موارد مربوط به تمرین‌ها مثل مستندها و سایر موردهای مرتبط را دریافت کنید.
 
 
 <ul id="archive">

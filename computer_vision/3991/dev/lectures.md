@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Lectures
+title: مطالب ارائه شده
 permalink: /lectures/
 ---
 
-You can download the lectures here (in PDF format). I will try to upload lectures prior to their corresponding classes.
+در این صفحه می توانید مطالب ارائه شده مثل لکچر را در قالب‌های powerpoint و PDF دریافت کنید.
 
 
 <ul id="archive">

@@ -1,8 +1,10 @@
 @charset "UTF-8";
+@font-face { font-family: 'Samim'; src: url("../_fonts/Samim-FD.woff") format("woff"); }
+
 /** Site header */
 .site-header { border-top: 0px solid #424242; border-bottom: 4px solid #F50057; min-height: 56px; background: #004175; position: relative; }
 
-.site-title, .site-title a { font-size: 26px; /* 		margin-top: 15px; line-height: 40px; */ letter-spacing: -1px; margin-bottom: 0; float: left; font-weight: 500; font-family: 'Titillium Web', sans-serif; color: #ffffff; }
+.site-title, .site-title a { font-size: 26px; /* 		margin-top: 15px; line-height: 40px; */ letter-spacing: -1px; margin-bottom: 0; float: left; font-weight: 500; font-family: 'Samim'; color: #ffffff; }
 
 .site-title, .site-title:visited, .site-title a, .site-title a:visited { color: #ffffff; }
 
@@ -12,7 +14,7 @@
 
 .site-nav ul li a { color: #fff; }
 
-.site-nav ul { text-align: right; float: right; padding-top: 9px; font-size: 85%; letter-spacing: 1px; line-height: 1em; font-weight: 600; margin: 0; padding: 0; list-style-type: none; text-transform: uppercase; font-family: 'Titillium Web', sans-serif; }
+.site-nav ul { text-align: right; float: right; padding-top: 9px; font-size: 85%; letter-spacing: 1px; line-height: 1em; font-weight: 600; margin: 0; padding: 0; list-style-type: none; text-transform: uppercase; font-family: 'Samim'; }
 
 .site-nav .menu > li { border-bottom: 3px solid transparent; display: inline-block; height: 23px; line-height: normal; margin: 12px 0 0 20px; padding: 0 0 2px 0; position: relative; vertical-align: top; }
 
@@ -27,7 +29,7 @@
 
 .site-nav .sub-menu li.current-menu-item > a { border-left-color: #004175; border-right-color: #004175; border-right: 0px; }
 
-.sub-menu { border: 3px solid transparent; border-top: 0; /* bg and border colors set in header */ box-shadow: 0 2px 2px rgba(0, 0, 0, 0.4); -moz-box-shadow: 0 2px 2px rgba(0, 0, 0, 0.4); -webkit-box-shadow: 0 2px 2px rgba(0, 0, 0, 0.4); display: none; right: -10px; padding: 4px 0 3px 0; position: absolute; text-align: left; text-transform: none; top: 28px; min-width: 265px; z-index: 999; font-family: Helvetica, Arial, Verdana, sans-serif; }
+.sub-menu { border: 3px solid transparent; border-top: 0; /* bg and border colors set in header */ box-shadow: 0 2px 2px rgba(0, 0, 0, 0.4); -moz-box-shadow: 0 2px 2px rgba(0, 0, 0, 0.4); -webkit-box-shadow: 0 2px 2px rgba(0, 0, 0, 0.4); display: none; right: -10px; padding: 4px 0 3px 0; position: absolute; text-align: left; text-transform: none; top: 28px; min-width: 265px; z-index: 999; font-family: 'Samim'; }
 
 .sub-menu li { border-bottom: 0; display: block; height: auto; margin: 3px 0; padding: 0; text-align: left; }
 
@@ -58,7 +60,7 @@
   .site-nav ul.menu a { background: #fff; color: #522d80; }
   .site-nav a, .site-nav li.current-menu-item > a { padding: 4px 10px; }
   .site-nav .menu > li { height: auto; text-align: left; }
-  .site-nav .sub-menu { border: 0; -moz-box-shadow: none; /* FF3.5+ */ -webkit-box-shadow: none; /* Saf3+, Chrome */ box-shadow: none; /* Standard. Opera 10.5, IE9 */ display: block; font-family: 'Titillium Web', Helvetica, Arial, Verdana, sans-serif; position: relative; min-width: 215px; max-width: 215px; top: auto; text-transform: uppercase; right: auto; width: auto; }
+  .site-nav .sub-menu { border: 0; -moz-box-shadow: none; /* FF3.5+ */ -webkit-box-shadow: none; /* Saf3+, Chrome */ box-shadow: none; /* Standard. Opera 10.5, IE9 */ display: block; font-family: 'Samim'; position: relative; min-width: 215px; max-width: 215px; top: auto; text-transform: uppercase; right: auto; width: auto; }
   .site-nav .sub-menu { padding-left: 16px; }
   .site-nav .sub-menu li.current-menu-item > a { border: 0; } }
 
@@ -66,7 +68,7 @@
 body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure { margin: 0; padding: 0; }
 
 /** Basic styling */
-body { font-family: "Open Sans", Helvetica, Arial, sans-serif; font-size: 0.95em; line-height: 1.5; font-weight: 300; color: #111; background-color: #fdfdfd; -webkit-text-size-adjust: 100%; }
+body { font-family: "Samim"; font-size: 0.95em; line-height: 1.5; font-weight: 300; color: #111; background-color: #fdfdfd; -webkit-text-size-adjust: 100%; }
 
 /** Set `margin-bottom` to maintain vertical rhythm */
 h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure { margin-bottom: 15px; }
@@ -122,7 +124,7 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 
 .icon > svg path { fill: #828282; }
 
-a.tosu { color: #b00000; background: #f5f5f5; text-decoration: none; padding: 2px; font-weight: 600; font-family: 'Capita', Georgia, serif; }
+a.tosu { color: #b00000; background: #f5f5f5; text-decoration: none; padding: 2px; font-weight: 600; font-family: 'Samim'; }
 
 .container { max-width: 1000px; margin-left: auto; margin-right: auto; padding-left: 10px; padding-right: 10px; }
 
@@ -168,7 +170,7 @@ a.tosu { color: #b00000; background: #f5f5f5; text-decoration: none; padding: 2p
 
 .profile-pic-gallary { padding: 0px; display: inline; }
 
-.image--cover-container { width: 90px; float: left; text-align: center; margin: 0px 15px; }
+.image--cover-container { width: 90px; float: right; text-align: center; margin: 0px 15px; }
 
 .image--cover { width: 80px; height: 80px; border-radius: 50%; margin-bottom: 10px; object-fit: cover; object-position: center right; }
 
@@ -191,7 +193,7 @@ a.tosu { color: #b00000; background: #f5f5f5; text-decoration: none; padding: 2p
 
 .previous-offerings li::before { content: "● "; color: black; padding-right: 5px; }
 
-.lecture-links { font-weight: bold; font-family: 'Titillium Web', sans-serif; }
+.lecture-links { font-weight: bold; font-family: 'Samim'; }
 
 .schedule-lecture-links { font-weight: normal; font-family: inherit; }
 
@@ -245,13 +247,13 @@ a.tosu { color: #b00000; background: #f5f5f5; text-decoration: none; padding: 2p
 /** Posts */
 .post-header { margin-bottom: 30px; }
 
-h1 { /*    font-size: 42px; */ letter-spacing: -1px; line-height: 1; font-family: 'Titillium Web', sans-serif; color: #522d80; }
+h1 { /*    font-size: 42px; */ letter-spacing: -1px; line-height: 1; font-family: 'Samim'; color: #522d80; }
 
 @media screen and (max-width: 950px) { h1 { /*        font-size: 36px; */ } }
 
 .post-content { margin-bottom: 30px; }
 
-.post-content h2 { font-family: 'Titillium Web', sans-serif; font-weight: 500; /*        font-size: 32px; */ }
+.post-content h2 { font-family: 'Samim'; font-weight: 500; /*        font-size: 32px; */ }
 
 @media screen and (max-width: 950px) { .post-content h2 { /*            font-size: 28px; */ } }
 
@@ -271,11 +273,11 @@ html { overflow-y: scroll; }
 
 ul.listing { list-style-type: none; margin-left: 0px; }
 
-ul.listing li.listing-seperator { padding-top: 15px; font-weight: bold; font-family: 'Titillium Web', sans-serif; font-size: 1.17em; }
+ul.listing li.listing-seperator { padding-top: 15px; font-weight: bold; font-family: 'Samim'; font-size: 1.17em; }
 
 ul.listing li.listing-item time { color: #333; font-weight: 500; text-transform: uppercase; padding-right: 10px; }
 
-ul.listing li.listing-item a { color: #004175; font-weight: 400; font-family: 'Titillium Web', sans-serif; }
+ul.listing li.listing-item a { color: #004175; font-weight: 400; font-family: 'Samim'; }
 
 /*------ archive type stuff ------ */
 ul#archive { list-style-type: none; margin: 0 0 1em 0; padding: 0; }
@@ -288,11 +290,11 @@ ul#archive li.alt { background: #f6f6f6; }
 
 .archiveposturl { display: block; color: #333; }
 
-ul#archive li span a { color: #004175; font-weight: bold; font-family: 'Titillium Web', sans-serif; }
+ul#archive li span a { color: #004175; font-weight: bold; font-family: 'Samim'; }
 
 ul#archive li span.postlower { font-size: 85%; }
 
-ul#archive li span.postlower a { color: #07c; font-weight: normal; font-family: "Open Sans", Helvetica, Arial, sans-serif; }
+ul#archive li span.postlower a { color: #07c; font-weight: normal; font-family: 'Samim'; }
 
 article ul { list-style-type: none; }
 

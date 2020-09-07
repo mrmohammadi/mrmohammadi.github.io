@@ -1,0 +1,25 @@
+instructor:
+  name: Mohammad Reza Mohammadi
+  profile_pic: /_images/pp/inst.jpg
+
+teaching_assistants:
+  - name: Maryam S. Hashemi 
+    profile_pic: /_images/pp/hashemi.jpg
+
+  - name: Sara Aein
+    profile_pic: /_images/pp/avatar.jpg
+
+  - name: Mahsa Meymari
+    profile_pic: /_images/pp/avatar.jpg
+    
+  - name: Ramin Kamali
+    profile_pic: /_images/pp/avatar.jpg
+  
+  - name: Danial Kamali
+    profile_pic: /_images/pp/avatar.jpg
+    
+  - name: Omid Ghahroudi
+    profile_pic: /_images/pp/OmidGhahroudi.jpg
+
+  - name: Amir Khakpour
+    profile_pic: /_images/pp/ta03.jpg

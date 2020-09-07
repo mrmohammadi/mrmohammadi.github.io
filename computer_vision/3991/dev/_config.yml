@@ -7,7 +7,7 @@ description: |
     Instructor: Mohammad Reza Mohammadi
 
 message: 
-baseurl: 
+baseurl: "/computer_vision/3991"
 url: "https://mrmohammadi.github.io/" # the base hostname & protocol for your site
 githubdir: "mrmohammadi/mrmohammadi.github.io"
 

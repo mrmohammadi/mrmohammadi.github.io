@@ -1,0 +1,8 @@
+<table>
+    <tr>
+        {% for image_url in site.data.covers.image_covers %}
+            <td><img class="" src="{{ image_url.url | prepend: site.baseurl }}" /></td>
+        {% endfor %}
+    </tr>
+</table>
+    

@@ -1,26 +1,16 @@
 <div>
-    [<a title="Download slides" href="
+    [<a title="دانلود لکچر" href="
     {% if include.lecture.slides contains '://' %}
       {{ include.lecture.slides }} 
     {% else %}
       {{ include.lecture.slides | prepend: site.baseurl }} 
-    {% endif %}">slides</a>]
-    {% if include.lecture.notes %}
-    [<a title="Download notes (zip)" href="
-    {% if include.lecture.notes contains '://' %}
-      {{ include.lecture.notes }} 
+    {% endif %}">لکچر</a>]
+    {% if include.lecture.video %}
+    [<a title="مشاهده ویدئو" href="
+    {% if include.lecture.video contains '://' %}
+      {{ include.lecture.video }} 
     {% else %}
-      {{ include.lecture.notes | prepend: site.baseurl }} 
-    {% endif %}">notes</a>]
-    {% endif %}
-    {% if include.lecture.codes %}
-	{% for code in include.lecture.codes %}
-    [<a title= "{{ code.title }}" href="
-    {% if code.link contains '://' %}
-      {{ code.link }} 
-    {% else %}
-      {{ code.link | prepend: site.baseurl }} 
-    {% endif %}">{{ code.name }}</a>]
-	{% endfor %}
+      {{ include.lecture.video | prepend: site.baseurl }} 
+    {% endif %}" target="_blank">ویدئو</a>]
     {% endif %}
 </div>

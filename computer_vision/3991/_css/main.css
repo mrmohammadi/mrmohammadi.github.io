@@ -4,7 +4,7 @@
 /** Site header */
 .site-header { border-top: 0px solid #424242; border-bottom: 4px solid #F50057; min-height: 56px; background: #004175; position: relative; }
 
-.site-title, .site-title a { font-size: 26px; /* 		margin-top: 15px; line-height: 40px; */ letter-spacing: -1px; margin-bottom: 0; float: left; font-weight: 500; font-family: 'Samim'; color: #ffffff; }
+.site-title, .site-title a { font-size: 26px; /* 		margin-top: 15px; line-height: 40px; */ letter-spacing: -1px; margin-bottom: 0; float: right; font-weight: 500; font-family: 'Samim'; color: #ffffff; }
 
 .site-title, .site-title:visited, .site-title a, .site-title a:visited { color: #ffffff; }
 
@@ -59,7 +59,7 @@
   .site-nav .menu li { display: block; margin: 0; color: #522d80; }
   .site-nav ul.menu a { background: #fff; color: #522d80; }
   .site-nav a, .site-nav li.current-menu-item > a { padding: 4px 10px; }
-  .site-nav .menu > li { height: auto; text-align: left; }
+  .site-nav .menu > li { height: auto; text-align: right; }
   .site-nav .sub-menu { border: 0; -moz-box-shadow: none; /* FF3.5+ */ -webkit-box-shadow: none; /* Saf3+, Chrome */ box-shadow: none; /* Standard. Opera 10.5, IE9 */ display: block; font-family: 'Samim'; position: relative; min-width: 215px; max-width: 215px; top: auto; text-transform: uppercase; right: auto; width: auto; }
   .site-nav .sub-menu { padding-left: 16px; }
   .site-nav .sub-menu li.current-menu-item > a { border: 0; } }
@@ -69,6 +69,8 @@ body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure { m
 
 /** Basic styling */
 body { font-family: "Samim"; font-size: 0.95em; line-height: 1.5; font-weight: 300; color: #111; background-color: #fdfdfd; -webkit-text-size-adjust: 100%; }
+
+.e-font { font-family: "Open Sans", Helvetica, Arial, sans-serif; font-size: 0.95em; line-height: 1.5; font-weight: 300; color: #111; background-color: #fdfdfd; -webkit-text-size-adjust: 100%; }
 
 /** Set `margin-bottom` to maintain vertical rhythm */
 h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure { margin-bottom: 15px; }

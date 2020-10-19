@@ -1,9 +1,13 @@
 image_covers:
   - url: /_images/covers/cover1.png 
+    alt: Learning OpenCV 3
     
   - url: /_images/covers/cover2.png 
+    alt: Learning OpenCV 4 Computer Vision with Python 3
 
-  - url: /_images/covers/cover3.png 
+  - url: /_images/covers/cover3.png
+    alt: Computer Vision Algorithms and Applications
 
   - url: /_images/covers/cover4.png 
+    alt: Digital Image Processing
   

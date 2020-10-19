@@ -6,7 +6,7 @@ permalink: /course-materials/
 
 البته منبع اصلی درس اسلایدها است ولی این موارد هم می‌توانند مفید باشند.
 ## کتاب‌ها
-{% include image_covers.html %}
+{% include image_covers.html width=175%}
 
  
 ## سایر مواد آموزشی

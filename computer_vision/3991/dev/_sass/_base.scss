@@ -36,7 +36,15 @@ body {
     -webkit-text-size-adjust: 100%;
 }
 
-
+.e-font{
+    font-family: $base-font-e-family;
+    font-size: $base-font-size;
+    line-height: $base-line-height;
+    font-weight: 300;
+    color: $text-color;
+    background-color: $background-color;
+    -webkit-text-size-adjust: 100%;
+}
 
 
 /**

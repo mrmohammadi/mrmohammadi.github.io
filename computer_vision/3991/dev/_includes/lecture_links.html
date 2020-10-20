@@ -1,10 +1,10 @@
 <div>
-    [<a title="دانلود لکچر" href="
+    [<a title="دانلود PDF" href="
     {% if include.lecture.slides contains '://' %}
       {{ include.lecture.slides }} 
     {% else %}
       {{ include.lecture.slides | prepend: site.baseurl }} 
-    {% endif %}" target="_blank">لکچر</a>]
+    {% endif %}" target="_blank">PDF</a>]
     {% if include.lecture.video %}
     [<a title="مشاهده ویدئو" href="
     {% if include.lecture.video contains '://' %}

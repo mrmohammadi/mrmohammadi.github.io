@@ -7,7 +7,7 @@ layout: default
     <h1>{{ site.course_name }} <span style="font-size: 20px;color: #0006;">/ {{ site.course_semester }} </span></h1>
 
     <h2>درباره درس</h2>
-    <p>{{ site.course_description }}</p>
+    <p align="justify">{{ site.course_description }}</p>
     <p>{{ site.message }}</p>
 
     {% if site.data.previous_offering and site.data.previous_offering.offerings and site.data.previous_offering.offerings.size > 0 %}

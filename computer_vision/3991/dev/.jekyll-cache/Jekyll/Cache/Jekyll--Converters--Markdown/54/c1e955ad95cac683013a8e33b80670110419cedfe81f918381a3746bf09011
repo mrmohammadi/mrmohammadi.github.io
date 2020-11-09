@@ -1,4 +1,4 @@
-I"0<p>در این صفحه می‌توانید مطالب ارائه شده را در قالب‌ PDF دریافت کنید.</p>
+I"�3<p>در این صفحه می‌توانید مطالب ارائه شده را در قالب‌ PDF دریافت کنید.</p>
 
 <ul id="archive">
 
@@ -381,6 +381,34 @@
     [<a title="مشاهده ویدئو" href="
     
       https://www.aparat.com/v/SmMUf 
+    " target="_blank">ویدئو</a>]
+    
+</div>
+        </strong>
+    </div>
+</div>
+</li>
+
+<li class="archiveposturl" style="background: transparent">
+<div class="lecture-container">
+    <div class="content">
+        <span><a href="
+            
+              /computer_vision/3991/static_files/lectures/lecture_15.pdf 
+            ">جلسه پانزدهم</a></span><br />
+
+        در این جلسه نحوه محاسبه تابع تبدیل میان دو تصویر بر اساس نقاط انطباق یافته بررسی می‌شود. هم‌چنین، برخی از توابع کاربردی OpenCV در این زمینه معرفی می‌شوند.
+        <br />
+        <strong>
+        <div>
+    [<a title="دانلود PDF" href="
+    
+      /computer_vision/3991/static_files/lectures/lecture_15.pdf 
+    " target="_blank">PDF</a>]
+    
+    [<a title="مشاهده ویدئو" href="
+    
+      https://www.aparat.com/v/NcLB6 
     " target="_blank">ویدئو</a>]
     
 </div>

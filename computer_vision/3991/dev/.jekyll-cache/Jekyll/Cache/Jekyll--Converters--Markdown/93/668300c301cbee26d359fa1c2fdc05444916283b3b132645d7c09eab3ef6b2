@@ -1,4 +1,4 @@
-I"�I<p>در این صفحه می‌توانید مطالب ارائه شده را در قالب‌ PDF دریافت کنید.</p>
+I"�M<p>در این صفحه می‌توانید مطالب ارائه شده را در قالب‌ PDF دریافت کنید.</p>
 
 <ul id="archive">
 
@@ -577,6 +577,34 @@
     [<a title="مشاهده ویدئو" href="
     
       https://www.aparat.com/v/ql3C1 
+    " target="_blank">ویدئو</a>]
+    
+</div>
+        </strong>
+    </div>
+</div>
+</li>
+
+<li class="archiveposturl" style="background: transparent">
+<div class="lecture-container">
+    <div class="content">
+        <span><a href="
+            
+              /computer_vision/3991/static_files/lectures/lecture_22.pdf 
+            ">جلسه بیست و دوم</a></span><br />
+
+        در این جلسه مقدمه‌ی یادگیری ماشین برای دسته‌بندی تصویر، توابع ضرر Hinge و Cross-Entropy بیان می‌شود و یک کد اولیه برای دسته‌بندی کاراکترهای موجود در مجموعه داده MNIST ارائه می‌شود.
+        <br />
+        <strong>
+        <div>
+    [<a title="دانلود PDF" href="
+    
+      /computer_vision/3991/static_files/lectures/lecture_22.pdf 
+    " target="_blank">PDF</a>]
+    
+    [<a title="مشاهده ویدئو" href="
+    
+      https://www.aparat.com/v/xoI2V 
     " target="_blank">ویدئو</a>]
     
 </div>

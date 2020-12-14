@@ -1,4 +1,4 @@
-I"�Q<p>در این صفحه می‌توانید مطالب ارائه شده را در قالب‌ PDF دریافت کنید.</p>
+I"�U<p>در این صفحه می‌توانید مطالب ارائه شده را در قالب‌ PDF دریافت کنید.</p>
 
 <ul id="archive">
 
@@ -633,6 +633,34 @@
     [<a title="مشاهده ویدئو" href="
     
       https://www.aparat.com/v/Pqw4I 
+    " target="_blank">ویدئو</a>]
+    
+</div>
+        </strong>
+    </div>
+</div>
+</li>
+
+<li class="archiveposturl" style="background: transparent">
+<div class="lecture-container">
+    <div class="content">
+        <span><a href="
+            
+              /computer_vision/3991/static_files/lectures/lecture_24.pdf 
+            ">جلسه بیست و چهارم</a></span><br />
+
+        در این جلسه لایه Pooling در شبکه‌های کانوولوشنی معرفی می‌شود. هم‌چنین، نحوه پیاده‌سازی معماری LeNet5 توضیح داده می‌شود. در نهایت، شبکه‌های AlexNet و VGG و GoogLeNet بررسی می‌شوند.
+        <br />
+        <strong>
+        <div>
+    [<a title="دانلود PDF" href="
+    
+      /computer_vision/3991/static_files/lectures/lecture_24.pdf 
+    " target="_blank">PDF</a>]
+    
+    [<a title="مشاهده ویدئو" href="
+    
+      https://www.aparat.com/v/2UYMp 
     " target="_blank">ویدئو</a>]
     
 </div>

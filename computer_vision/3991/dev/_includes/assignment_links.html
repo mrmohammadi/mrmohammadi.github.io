@@ -1,0 +1,16 @@
+<div>
+    [<a title="دانلود تمرین" href="
+    {% if include.assignment.homework contains '://' %}
+      {{ include.assignment.homework }} 
+    {% else %}
+      {{ include.assignment.homework | prepend: site.baseurl }} 
+    {% endif %}" target="_blank">تمرین</a>]
+    {% if include.assignment.answer %}
+    [<a title="مشاهده پاسخ" href="
+    {% if include.assignment.answer contains '://' %}
+      {{ include.assignment.answer }} 
+    {% else %}
+      {{ include.assignment.answer | prepend: site.baseurl }} 
+    {% endif %}" target="_blank">پاسخ تمرین</a>]
+    {% endif %}
+</div>

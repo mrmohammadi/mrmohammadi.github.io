@@ -474,6 +474,22 @@ a.tosu {
     }
   }
 
+  .assignment-container {
+  
+    display: flex;
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+    .thumbnail {
+      width: 120px;
+    }
+    
+    .content {
+      flex: 1;
+    }
+  }
+
   .previous-offerings{
     list-style-type: none;
     

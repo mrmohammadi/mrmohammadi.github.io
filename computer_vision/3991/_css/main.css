@@ -189,6 +189,12 @@ a.tosu { color: #b00000; background: #f5f5f5; text-decoration: none; padding: 2p
 
 .lecture-container .content { flex: 1; }
 
+.assignment-container { display: flex; width: 100%; padding-top: 10px; padding-bottom: 10px; }
+
+.assignment-container .thumbnail { width: 120px; }
+
+.assignment-container .content { flex: 1; }
+
 .previous-offerings { list-style-type: none; }
 
 .previous-offerings li { display: inline-block; margin-right: 10px; }

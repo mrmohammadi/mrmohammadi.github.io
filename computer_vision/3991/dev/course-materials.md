@@ -9,9 +9,9 @@ permalink: /course-materials/
 {% include image_covers.html width=175%}
 
  
-## سایر مواد آموزشی
+<!-- ## سایر مواد آموزشی
 
 
 
-## صفحه‌های مناسب در وب
+## صفحه‌های مناسب در وب -->
 

@@ -1,0 +1,16 @@
+<div>
+    [<a title="دانلود PDF" href="
+    {% if include.lecture.pdf contains '://' %}
+      {{ include.lecture.pdf }} 
+    {% else %}
+      {{ include.lecture.pdf | prepend: site.baseurl }} 
+    {% endif %}" target="_blank">PDF</a>]
+    {% if include.lecture.powerpoint %}
+    [<a title="دانلود PowerPoint" href="
+    {% if include.lecture.powerpoint contains '://' %}
+      {{ include.lecture.powerpoint }} 
+    {% else %}
+      {{ include.lecture.powerpoint | prepend: site.baseurl }} 
+    {% endif %}" target="_blank">PowerPoint</a>]
+    {% endif %}
+</div>

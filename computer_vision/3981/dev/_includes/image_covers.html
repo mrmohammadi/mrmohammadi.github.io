@@ -1,0 +1,13 @@
+<table style="text-align:center">
+    <tr>
+        {% for image_url in site.data.covers.image_covers %}
+            <td><img class="" src="{{ image_url.url | prepend: site.baseurl }}" style="max-width: {{include.width}}px"/></td>
+        {% endfor %}
+    </tr>
+    <tr>
+        {% for image_url in site.data.covers.image_covers %}
+            <td class="e-font">{{image_url.alt}}</td>
+        {% endfor %}
+    </tr>
+</table>
+    
